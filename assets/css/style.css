@@ -2476,7 +2476,7 @@ single property page
 }
 
 .single-property-content .lSSlideOuter .lSPager {
-    display: inline-block;
+    display: none;
 }
 
 .single-property-content .lSSlideOuter .lSPager li.active,
@@ -2544,7 +2544,7 @@ single property page
 }
 
 .prp-style-1 .single-property-wrapper {
-    margin-top: -35px;
+    margin-top: 15px;
 }
 
 .single-property-header {
