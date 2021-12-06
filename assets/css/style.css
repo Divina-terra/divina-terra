@@ -1845,7 +1845,7 @@ Asside widgets CSS
 .page-title h2 {
     margin: 10px 0px;
     font-size: 30px;
-    font-weight: 300;
+    font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
@@ -2213,9 +2213,7 @@ proerty-th
     display: block;
     position: relative;
     width: 100%;
-    opacity: 0.7;
     min-height: 225px;
-    max-height: 265px;
 }
 
 .proerty-th .proerty-item .item-entry {
@@ -2807,7 +2805,7 @@ single property page
 }
 
 .register-area {
-    padding: 100px;
+    padding: 60px 10px;
 }
 
 
@@ -3502,7 +3500,7 @@ blog
 }
 
 .footer {
-    padding: 0px 0px 60px;
+    padding: 0px 0px 10px;
     background: rgba(255, 255, 255, 0.89) none repeat scroll 0% 0%;
 }
 
