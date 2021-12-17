@@ -1,4 +1,7 @@
 @media (max-width: 480px) {
+        .proerty-th .proerty-item .item-thumb img {
+        height: 350px;
+    }
     .welcome_text .page-title h2 {
         color: #9B9B9B;
         text-transform: uppercase;
